@@ -4,6 +4,8 @@
 I believe software engineering is like a battle field. To survive and win in this field the main power is i) to understand the battle means domain knowledge ii) logic to develop the solution and iii) patience to find the solution which I belong to. Usually need some weapons in the battle and I can operate some apt weapons like Python, C#, SQL and believe I can adapt other weapons as needed.
 
 
+
+
 - 🔭 I’m currently working on **Machine Learning projects**
 
 - 🌱 I’m currently learning **MLOps**
@@ -11,6 +13,8 @@ I believe software engineering is like a battle field. To survive and win in thi
 - 👯 I’m looking to collaborate on **Open source projects**
 
 - 💬 Ask me about **Python, SQL**
+
+
 
 
 <h3 align="left">Languages and Tools:</h3>
