@@ -8,7 +8,6 @@ I believe software engineering is like a battle field. To survive and win in thi
 
 - 🔭 I’m currently working on **Machine Learning projects**
 
-- 🌱 I’m currently learning **MLOps**
 
 - 👯 I’m looking to collaborate on **Open source projects**
 
